@@ -1479,3 +1479,33 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+
+.search-container {
+  margin: 20px 0;
+}
+
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#search-results {
+  list-style: none;
+  padding: 0;
+}
+
+#search-results li {
+  margin: 10px 0;
+}
+
+#search-results a {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#search-results p {
+  margin: 5px 0;
+  color: #666;
+}
