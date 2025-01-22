@@ -23,6 +23,7 @@ Basket trading is a strategy where a trader buys or sells a group of securities 
 
 5. **Market Impact**: Large trades in a single security can significantly impact its price. By spreading the trade across multiple securities, basket trading minimizes market impact.
 
+![I and My friends]({{site.baseurl}}/assets/img/fxturn20250122213122.png)
 ### Why FxTurn Trade Fusion AI is Good for Smart Basket Trading
 
 FxTurn Trade Fusion AI is designed to enhance basket trading through advanced algorithms and artificial intelligence. Here’s why it stands out:
@@ -40,3 +41,4 @@ FxTurn Trade Fusion AI is designed to enhance basket trading through advanced al
 6. **Automation**: The AI automates the entire trading process, from analysis to execution. This reduces the need for manual intervention, allowing traders to focus on strategy development rather than execution.
 
 7. **Scalability**: Whether you're a retail trader or an institutional investor
+![I and My friends](/assets/img/fxturn20250122213122.png)
