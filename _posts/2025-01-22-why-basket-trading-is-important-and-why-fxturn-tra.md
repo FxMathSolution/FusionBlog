@@ -5,7 +5,7 @@ date: 2025-01-21 21:24:12
 description: "### Importance of Basket Trading
 
 Basket trading is a strategy where a trader buys or sells a group ..."  # Short description
-img: 5.png # Optional image
+img: fxturn-2025-01-22 21-31-22.png # Optional image
 tags: ['basket']
 ---
 
