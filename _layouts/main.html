@@ -26,24 +26,38 @@ layout: default
           <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.social-telegram %}
-  <li>
-    <a href="https://t.me/{{ site.social-telegram }}" target="_blank">
-      <i class="fa fa-telegram" aria-hidden="true"></i>
-    </a>
-  </li>
-{% else %}
-  <li>
-    <a href="https://t.me/" target="_blank">
-      <i class="fa fa-telegram" aria-hidden="true"></i>
-    </a>
-  </li>
-{% endif %}
+        <li>
+          <a href="https://t.me/{{ site.social-telegram }}" target="_blank">
+            <i class="fa fa-telegram" aria-hidden="true"></i>
+          </a>
+        </li>
+      {% else %}
+        <li>
+          <a href="https://t.me/" target="_blank">
+            <i class="fa fa-telegram" aria-hidden="true"></i>
+          </a>
+        </li>
+      {% endif %}
         
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
         {% else %}
           <li class="email"><a href="mailto:fxmathsolution@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
         {% endif %}
+
+        {% if site.social-web %}
+    <li>
+      <a href="{{ site.social-web }}" class="url-button" target="_blank">
+        <i class="fa fa-globe" aria-hidden="true"></i>
+      </a>
+    </li>
+  {% else %}
+    <li>
+      <a href="https://example.com" class="url-button" target="_blank">
+        <i class="fa fa-globe" aria-hidden="true"></i>
+      </a>
+    </li>
+  {% endif %}
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
