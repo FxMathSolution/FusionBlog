@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to FxTurn Trade Fusion AI!"
-date: 2025-01-23 10:00:00 +0300
+date: 2025-01-21 10:00:00 +0300
 description: Discover how FxTurn Trade Fusion AI is revolutionizing the trading landscape with cutting-edge AI-driven strategies and tools. # Add post description (optional)
 img:  # Add image post (optional)
 tags: [main,fxturn]
