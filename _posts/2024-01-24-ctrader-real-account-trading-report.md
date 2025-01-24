@@ -37,14 +37,14 @@ In this post, I will share the results of my recent trading performance on a **r
 - **Final Balance**: $215.37
 - **Profit**: $15.37
 - **Profit Percentage**: 7.5%
-- **Max DD**: $6.66 (3.33%)
+- **Max DD**: $10.0 (6.66%)
 
 ### $100 Account (Extrapolated):
 - **Initial Deposit**: $100
 - **Final Balance**: $115.37
 - **Profit**: $15.37
 - **Profit Percentage**: 15%
-- **Max DD**: $3.33 (3.33%)
+- **Max DD**: $10.0 (10%)
 
 ---
 
