@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Account Trading Performance Analysis on cTrader
-date: 2023-10-25
+date: 2023-10-23 01:00:00 +0300
 author: Reza Mehrabani
 categories: [Trading, Performance Analysis]
 tags: [trading, forex, ctrader, real account, profit analysis]
