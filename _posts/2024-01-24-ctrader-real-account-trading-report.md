@@ -4,7 +4,7 @@ title: Real Account Trading Performance Analysis on cTrader
 date: 2025-10-23 01:00:00 +0300
 author: Reza Mehrabani
 categories: [Trading, Performance Analysis]
-img: https://github.com/FxMathSolution/fusionblog/edit/main/images/2025-01-24-19-33-47.png
+img: ![Alt text for the image](https://github.com/FxMathSolution/fusionblog/edit/main/images/2025-01-24-19-33-47.png)
 tags: [trading, forex, ctrader, real account, profit analysis]
 ---
 
