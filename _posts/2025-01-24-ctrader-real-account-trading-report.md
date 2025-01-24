@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Account Trading Performance Analysis on cTrader
-date: 2023-10-23 01:00:00 +0300
+date: 2025-10-23 01:00:00 +0300
 author: Reza Mehrabani
 categories: [Trading, Performance Analysis]
 tags: [trading, forex, ctrader, real account, profit analysis]
@@ -37,14 +37,14 @@ In this post, I will share the results of my recent trading performance on a **r
 - **Final Balance**: $215.37
 - **Profit**: $15.37
 - **Profit Percentage**: 7.5%
-- **Max DD**: $6.66 (3.33%)
+- **Max DD**: $10 (6.66%)
 
 ### $100 Account (Extrapolated):
 - **Initial Deposit**: $100
 - **Final Balance**: $115.37
 - **Profit**: $15.37
 - **Profit Percentage**: 15%
-- **Max DD**: $3.33 (3.33%)
+- **Max DD**: $10 (10.00%)
 
 ---
 
